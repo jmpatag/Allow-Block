@@ -1,7 +1,8 @@
-https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
-https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/ips/tif.txt
+https://www.spamhaus.org/drop/drop.txt
+http://lists.blocklist.de/lists/sip.txt
+http://lists.blocklist.de/lists/ftp.txt
